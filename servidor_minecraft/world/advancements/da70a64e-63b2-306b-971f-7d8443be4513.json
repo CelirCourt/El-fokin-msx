@@ -10401,6 +10401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-06 02:09:29 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/building_blocks/macerating/cobblestone": {
     "criteria": {
       "has_item": "2024-11-25 17:57:56 +0000"
