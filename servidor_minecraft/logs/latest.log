@@ -1803,3 +1803,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Dec2024 02:37:20.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [The Perfect Foundation]
 [06Dec2024 02:42:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPITONY: Teleported PAPITONY to Matikd]
 [06Dec2024 02:55:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has completed the challenge [Learn to Fart]
+[06Dec2024 03:14:46.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1382, y=63, z=611} but found not block entity block Block{minecraft:air} at location
+[06Dec2024 03:14:46.987] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1382, y=63, z=611}
+[06Dec2024 03:15:48.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matikd moved too quickly! 1.8684720208002545,7.2151190012846484,-15.887787222782265
+[06Dec2024 03:15:48.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06Dec2024 03:16:20.193] [Worker-Main-7/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Dec2024 03:16:28.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Ambush]
+[06Dec2024 03:17:06.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Dec2024 03:17:48.348] [Worker-Main-7/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Dec2024 03:17:52.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7385ms or 147 ticks behind
+[06Dec2024 03:18:11.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[06Dec2024 03:18:16.682] [Worker-Main-7/WARN] [ModernFix/]: The namespace betterwitchhuts contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[06Dec2024 03:21:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Voluntary Exile]
+[06Dec2024 03:21:15.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has reached the goal [Fortuitous Militia]
