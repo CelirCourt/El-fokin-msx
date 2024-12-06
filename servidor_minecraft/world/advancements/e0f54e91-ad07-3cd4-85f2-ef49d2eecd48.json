@@ -1049,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-06 01:41:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/combat/spike_to_arrow": {
     "criteria": {
       "has_journal": "2024-11-25 20:04:14 +0000"
@@ -3592,6 +3598,12 @@
   "alltheores:recipes/alltheores/iron_ore_hammer": {
     "criteria": {
       "has_iron_block": "2024-11-25 19:53:42 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 01:41:43 +0000"
     },
     "done": true
   },
@@ -10967,6 +10979,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 01:41:44 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:01:43 +0000"
@@ -11937,6 +11955,12 @@
       "has_journal": "2024-11-25 20:04:13 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 01:41:44 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {

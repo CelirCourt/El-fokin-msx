@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-06 01:37:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2024-12-06 01:34:47 +0000"
@@ -659,6 +665,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 01:36:17 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/jukebox": {
     "criteria": {
       "has_the_recipe": "2024-12-05 19:34:35 +0000"
@@ -758,6 +770,12 @@
   "ftbic:recipes/ftbic/extruding/ingots/gold_to_gold_rod": {
     "criteria": {
       "has_item": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-06 01:36:49 +0000"
     },
     "done": true
   },
@@ -1967,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_counter": {
     "criteria": {
       "has_log": "2024-11-25 18:36:17 +0000"
@@ -1985,9 +2009,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_14": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2024-11-25 17:17:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_13": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },
@@ -2000,6 +2036,12 @@
   "alchemistry:recipes/dissolver/copper_block": {
     "criteria": {
       "has_the_recipe": "2024-12-05 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_15": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },
@@ -2069,9 +2111,27 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_10": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_12": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2024-12-05 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_11": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },
@@ -2793,6 +2853,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_door": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 01:36:49 +0000"
     },
     "done": true
   },
@@ -3769,6 +3835,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-06 01:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_the_recipe": "2024-12-05 20:18:14 +0000"
@@ -3970,6 +4042,12 @@
   "additionallanterns:recipes/additionallanterns/amethyst_lantern_colorless": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:13:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-06 01:39:07 +0000"
     },
     "done": true
   },
@@ -4964,9 +5042,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-06 01:37:38 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/decorations/furnace_compat": {
     "criteria": {
       "has_item": "2024-11-25 19:39:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 01:40:08 +0000"
     },
     "done": true
   },
@@ -6501,6 +6591,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2024-12-06 01:37:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/divining_rod": {
     "criteria": {
       "has_item": "2024-12-05 20:08:54 +0000"
@@ -6760,6 +6856,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-06 01:37:38 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2024-12-05 19:34:16 +0000"
@@ -6800,6 +6902,12 @@
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-05 19:37:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },
@@ -6848,6 +6956,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/brown_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 01:37:07 +0000"
     },
     "done": true
   },
@@ -6956,6 +7070,12 @@
   "deeperdarker:recipes/deeperdarker/echo_boat": {
     "criteria": {
       "in_water": "2024-12-06 01:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-06 01:36:17 +0000"
     },
     "done": true
   },
@@ -7892,6 +8012,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 01:38:33 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:57:43 +0000"
@@ -8564,6 +8690,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/food/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2024-12-06 01:37:41 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/nickel_ingot_from_raw": {
     "criteria": {
       "has_item": "2024-12-05 21:00:30 +0000"
@@ -8714,6 +8846,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/third_eye": {
     "criteria": {
       "has_item": "2024-12-05 20:08:54 +0000"
@@ -8820,6 +8958,12 @@
   "corail_woodcutter:recipes/from_byg_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2024-12-06 01:37:41 +0000"
     },
     "done": true
   },
@@ -10807,6 +10951,48 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_5": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_4": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_3": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_2": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_1": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2024-12-06 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_0": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:02:22 +0000"
@@ -10825,9 +11011,33 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mushroom_9": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_8": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_7": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-25 17:58:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mushroom_6": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },
@@ -11176,6 +11386,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },
@@ -11635,6 +11851,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2024-12-06 01:37:41 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ghostweave": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -11890,6 +12112,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-05 20:32:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 01:35:50 +0000"
     },
     "done": true
   },

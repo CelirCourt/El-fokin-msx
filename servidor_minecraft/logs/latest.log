@@ -1753,3 +1753,24 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Dec2024 01:37:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [How'd You Get This?]
 [06Dec2024 01:37:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Suit Up]
 [06Dec2024 01:38:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has reached the goal [Bone Crusher]
+[06Dec2024 01:39:59.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Husk
+[06Dec2024 01:39:59.941] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
+[06Dec2024 01:40:01.897] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 01:40:08.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has reached the goal [Chain Death]
+[06Dec2024 01:40:08.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Husk
+[06Dec2024 01:40:08.787] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
+[06Dec2024 01:40:10.619] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 01:41:34.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matikd: Teleported Matikd to PAPITONY]
+[06Dec2024 01:41:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [When in Rome]
+[06Dec2024 01:43:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Skeleton
+[06Dec2024 01:43:02.241] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
+[06Dec2024 01:43:03.910] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 01:43:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Skeleton
+[06Dec2024 01:43:17.077] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
+[06Dec2024 01:43:20.165] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 01:45:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Skeleton
+[06Dec2024 01:45:59.445] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
+[06Dec2024 01:46:00.960] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 01:46:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Zombie
+[06Dec2024 01:46:38.046] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
+[06Dec2024 01:46:39.517] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
