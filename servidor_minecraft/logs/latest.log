@@ -1727,3 +1727,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Dec2024 01:15:41.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
 [06Dec2024 01:16:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matikd: Teleported Matikd to PAPITONY]
 [06Dec2024 01:18:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Disme A Dozen]
+[06Dec2024 01:20:08.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Far From Perfect]
+[06Dec2024 01:22:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [A Strange Grave Dust]
+[06Dec2024 01:24:35.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPITONY moved too quickly! 9.013391122867688,-0.03499999999996817,-4.816954253835831
+[06Dec2024 01:25:30.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PAPITONY moved too quickly! 0.043554619863925836,-11.100866920525675,-0.8408226401683407
+[06Dec2024 01:25:56.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-750, y=65, z=-54} BlockPos{x=-750, y=66, z=-54}
+[06Dec2024 01:27:02.330] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-857, y=35, z=694} but found not block entity block Block{minecraft:air} at location
+[06Dec2024 01:27:02.331] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-857, y=35, z=694}
+[06Dec2024 01:28:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matikd: Teleported Matikd to PAPITONY]
+[06Dec2024 01:29:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Disme A Dozen]
+[06Dec2024 01:29:09.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has reached the goal [Flawless Crystals]
