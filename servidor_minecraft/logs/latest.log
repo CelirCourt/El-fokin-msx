@@ -1774,3 +1774,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Dec2024 01:46:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Zombie
 [06Dec2024 01:46:38.046] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
 [06Dec2024 01:46:39.517] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 01:50:22.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Close Quarters]
+[06Dec2024 01:53:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Totally Tubular Transfer]
+[06Dec2024 01:54:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Howling Blades]
+[06Dec2024 01:57:34.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Cover Me with Diamonds]
+[06Dec2024 01:58:00.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15040, l='ServerLevel[world]', x=-766.35, y=100.00, z=61.49] died, message: 'Villager was slain by Zombie'
+[06Dec2024 01:58:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has completed the challenge [Cover Me in Debris]
+[06Dec2024 01:59:56.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Marcus'/21955, l='ServerLevel[world]', x=-1231.18, y=28.00, z=1013.31] died: Marcus was slain by PAPITONY
+[06Dec2024 01:59:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has completed the challenge [He Wasn't So Strong]

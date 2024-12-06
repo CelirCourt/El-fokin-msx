@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/advanced_hopper_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-06 01:51:03 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-11-25 17:16:40 +0000"
@@ -3905,6 +3911,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/green_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-11-25 17:16:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-06 01:50:39 +0000"
     },
     "done": true
   },
