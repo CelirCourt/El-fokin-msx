@@ -1782,3 +1782,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Dec2024 01:58:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has completed the challenge [Cover Me in Debris]
 [06Dec2024 01:59:56.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Marcus'/21955, l='ServerLevel[world]', x=-1231.18, y=28.00, z=1013.31] died: Marcus was slain by PAPITONY
 [06Dec2024 01:59:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has completed the challenge [He Wasn't So Strong]
+[06Dec2024 02:01:34.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Warped]
+[06Dec2024 02:01:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Magic Writing]
+[06Dec2024 02:02:30.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Perfectly Balanced]

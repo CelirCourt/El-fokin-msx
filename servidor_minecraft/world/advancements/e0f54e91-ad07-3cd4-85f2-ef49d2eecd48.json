@@ -1937,6 +1937,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-06 01:58:42 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_cypress_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:01 +0000"
@@ -3986,6 +3992,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-06 01:57:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-11-25 17:49:07 +0000"
@@ -4369,6 +4381,12 @@
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-06 01:58:07 +0000"
     },
     "done": true
   },
@@ -5061,6 +5079,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-06 01:57:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-11-25 18:07:38 +0000"
@@ -5644,6 +5668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-06 01:56:18 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/copper_torch": {
     "criteria": {
       "has_copper": "2024-11-25 20:04:17 +0000"
@@ -5927,6 +5957,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_toast_sandwich": {
+    "criteria": {
+      "has_toast": "2024-12-06 01:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-25 20:04:10 +0000"
@@ -6080,6 +6116,12 @@
   "alltheores:recipes/alltheores/peridot_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-11-25 20:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-06 01:58:42 +0000"
     },
     "done": true
   },
@@ -7681,6 +7723,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-06 01:58:07 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-11-25 17:16:38 +0000"
@@ -8215,6 +8263,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-06 01:57:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-11-25 20:04:09 +0000"
@@ -8487,6 +8541,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "buttered_toast": "2024-12-06 01:58:47 +0000",
       "toast": "2024-11-25 18:34:00 +0000"
     },
     "done": false
@@ -8849,6 +8904,12 @@
   "alchemistry:recipes/dissolver/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2024-11-25 20:17:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2024-12-06 01:58:42 +0000"
     },
     "done": true
   },
@@ -9266,6 +9327,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 01:58:42 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-11-25 17:16:38 +0000"
@@ -9294,6 +9361,12 @@
     "criteria": {
       "has_wpt": "2024-11-25 17:03:01 +0000",
       "has_wct": "2024-11-25 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
+    "criteria": {
+      "has_item": "2024-12-06 01:58:42 +0000"
     },
     "done": true
   },
@@ -9632,6 +9705,12 @@
   "corail_woodcutter:recipes/from_byg_green_enchanted_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 01:56:18 +0000"
     },
     "done": true
   },
