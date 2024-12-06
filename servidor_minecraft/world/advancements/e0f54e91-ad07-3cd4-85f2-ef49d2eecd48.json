@@ -2321,6 +2321,12 @@
     },
     "done": true
   },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2024-12-06 02:45:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/netherite_chest": {
     "criteria": {
       "has_diamond_chest": "2024-11-25 18:09:57 +0000"
