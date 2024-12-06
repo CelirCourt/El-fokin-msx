@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-11-25 17:48:29 +0000"
@@ -764,6 +770,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-05 20:00:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2024-12-06 02:56:21 +0000"
     },
     "done": true
   },
@@ -1535,6 +1547,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/raw_materials/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:33 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:01:44 +0000"
@@ -1979,6 +1997,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-25 18:00:59 +0000"
@@ -2405,6 +2429,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/raw_materials/aluminum_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:26 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/osmium_knife": {
     "criteria": {
       "has_osmium": "2024-11-25 17:48:22 +0000"
@@ -2462,6 +2492,12 @@
   "alltheores:recipes/alltheores/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2024-11-25 17:48:29 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/raw_materials/aluminum_to_dust": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:26 +0000"
     },
     "done": true
   },
@@ -3366,6 +3402,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/raw_materials/lead_to_dust": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-11-25 17:53:51 +0000"
@@ -3574,6 +3616,12 @@
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-11-25 17:48:29 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/compacting/aluminum_raw": {
+    "criteria": {
+      "has_aluminum_raw": "2024-12-06 02:56:26 +0000"
     },
     "done": true
   },
@@ -5169,6 +5217,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/raw_materials/aluminum_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:26 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2024-11-25 18:07:38 +0000"
@@ -5364,6 +5418,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/chipped/tinkerer_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-25 18:10:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:33 +0000"
     },
     "done": true
   },
@@ -5780,6 +5840,12 @@
   "ars_nouveau:recipes/ars_nouveau/mirrorweave": {
     "criteria": {
       "has_journal": "2024-11-25 20:04:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2024-12-06 02:56:26 +0000"
     },
     "done": true
   },
@@ -6227,6 +6293,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2024-12-06 02:56:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-05 21:04:40 +0000"
@@ -6554,6 +6626,12 @@
   "additionallanterns:recipes/additionallanterns/basalt_lantern_yellow": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:16:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch_raw": {
+    "criteria": {
+      "has_aluminum": "2024-12-06 02:56:26 +0000"
     },
     "done": true
   },
@@ -7377,6 +7455,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-25 18:59:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:21 +0000"
     },
     "done": true
   },
@@ -8269,6 +8353,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2024-12-06 01:57:46 +0000"
@@ -8640,6 +8730,12 @@
   "alchemistry:recipes/dissolver/honey_block": {
     "criteria": {
       "has_the_recipe": "2024-12-05 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_zinc_from_block": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:30 +0000"
     },
     "done": true
   },
@@ -10911,6 +11007,12 @@
   "alltheores:recipes/alltheores/nickel_ingot_from_raw": {
     "criteria": {
       "has_item": "2024-12-05 19:59:59 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/smelting/raw_materials/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:33 +0000"
     },
     "done": true
   },
@@ -14611,6 +14713,12 @@
   "alltheores:recipes/alltheores/invar_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2024-11-25 20:03:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-06 02:56:26 +0000"
     },
     "done": true
   },

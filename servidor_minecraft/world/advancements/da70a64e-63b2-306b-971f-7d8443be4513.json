@@ -7420,6 +7420,12 @@
     },
     "done": true
   },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-12-06 02:55:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_crate": {
     "criteria": {
       "has_log": "2024-11-25 18:36:17 +0000"
