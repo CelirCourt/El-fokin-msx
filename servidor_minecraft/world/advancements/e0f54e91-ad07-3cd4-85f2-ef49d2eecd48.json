@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2024-12-06 01:34:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-11-25 17:53:51 +0000"
@@ -1100,6 +1106,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-11-25 19:59:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2024-12-06 01:34:02 +0000"
     },
     "done": true
   },
@@ -2652,6 +2664,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-06 01:29:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-05 19:59:55 +0000"
@@ -4019,6 +4037,12 @@
   "xnet:recipes/xnet/connector_blue_dye": {
     "criteria": {
       "chest": "2024-11-25 18:07:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2024-12-06 01:32:39 +0000"
     },
     "done": true
   },
@@ -9212,6 +9236,12 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2024-12-06 01:27:29 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-11-25 17:16:38 +0000"
@@ -10341,6 +10371,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-05 19:59:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-06 01:29:00 +0000"
     },
     "done": true
   },
@@ -13411,6 +13447,7 @@
     "criteria": {
       "minecraft:windswept_hills": "2024-11-25 17:07:40 +0000",
       "minecraft:bamboo_jungle": "2024-11-25 17:06:16 +0000",
+      "minecraft:badlands": "2024-12-06 01:28:47 +0000",
       "minecraft:dark_forest": "2024-11-25 17:10:03 +0000",
       "minecraft:sparse_jungle": "2024-11-25 17:05:26 +0000",
       "minecraft:river": "2024-11-25 17:04:17 +0000",
@@ -13563,6 +13600,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-25 18:05:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-12-06 01:32:39 +0000"
     },
     "done": true
   },
@@ -14678,6 +14721,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/misc/smelting/dusts/iron_to_iron_ingot": {
+    "criteria": {
+      "has_item": "2024-12-06 01:32:39 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_redwood_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:01 +0000"
@@ -14736,6 +14785,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-11-25 20:04:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-12-06 01:34:02 +0000"
     },
     "done": true
   },
@@ -14917,6 +14972,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-11-25 20:04:14 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/misc/blasting/dusts/iron_to_iron_ingot": {
+    "criteria": {
+      "has_item": "2024-12-06 01:32:39 +0000"
     },
     "done": true
   },

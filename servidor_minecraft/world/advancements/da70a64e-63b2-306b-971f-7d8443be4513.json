@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_wall": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 01:31:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/falseweave": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-06 01:34:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-05 19:34:14 +0000"
@@ -392,6 +404,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_netherite_tier_upgrade": {
     "criteria": {
       "has_gold_to_diamond_tier_upgrade": "2024-12-05 19:34:15 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/drenched_iron_ingot_from_drenched_iron_nugget": {
+    "criteria": {
+      "has_drenched_iron_nugget": "2024-12-06 01:31:14 +0000"
     },
     "done": true
   },
@@ -809,6 +827,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/network_data_storage": {
+    "criteria": {
+      "has_capacitor": "2024-12-06 01:28:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-05 19:35:55 +0000"
@@ -899,6 +923,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_fire_shard_from_fire_shards": {
+    "criteria": {
+      "has_fire_shard": "2024-12-06 01:31:13 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-12-05 19:34:16 +0000"
@@ -938,6 +968,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/log": {
     "criteria": {
       "has_item": "2024-11-25 17:17:45 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ender_dust": {
+    "criteria": {
+      "has_item": "2024-12-06 01:31:12 +0000"
     },
     "done": true
   },
@@ -1070,6 +1106,12 @@
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2024-11-25 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2024-12-06 01:32:47 +0000"
     },
     "done": true
   },
@@ -1313,6 +1355,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 01:31:12 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2024-11-25 17:03:41 +0000"
@@ -1538,6 +1586,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/decorations/block": {
+    "criteria": {
+      "recipe_condition": "2024-12-06 01:31:12 +0000"
     },
     "done": true
   },
@@ -1802,6 +1856,12 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/aluminum_to_dust": {
     "criteria": {
       "has_item": "2024-12-05 20:30:59 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2024-12-06 01:32:47 +0000"
     },
     "done": true
   },
@@ -2198,6 +2258,12 @@
   "silentgear:repair_kit": {
     "criteria": {
       "sturdy_repair_kit": "2024-12-05 19:34:14 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/allthetweaks/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 01:31:12 +0000"
     },
     "done": true
   },
@@ -3621,6 +3687,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/fire_shard": {
+    "criteria": {
+      "has_fire_shard": "2024-12-06 01:31:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2024-11-25 19:39:47 +0000"
@@ -3692,6 +3764,7 @@
       "minecraft:skeleton": "2024-12-05 20:13:46 +0000",
       "minecraft:creeper": "2024-11-25 19:20:49 +0000",
       "minecraft:zombified_piglin": "2024-12-05 19:29:18 +0000",
+      "minecraft:husk": "2024-12-06 01:32:41 +0000",
       "minecraft:zombie": "2024-12-06 01:22:50 +0000"
     },
     "done": false
@@ -4296,6 +4369,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/drenched_iron_nugget": {
+    "criteria": {
+      "has_drenched_iron_nugget": "2024-12-06 01:31:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-11-25 18:19:44 +0000"
@@ -4372,6 +4451,12 @@
   "ars_nouveau:recipes/ars_nouveau/experience_gem": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/elementpipe_from_impaired_elementpipe_and_nugget": {
+    "criteria": {
+      "has_drenched_iron_nugget": "2024-12-06 01:31:14 +0000"
     },
     "done": true
   },
@@ -4846,6 +4931,12 @@
   "alltheores:recipes/alltheores/raw_lead_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2024-12-05 20:51:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 01:33:54 +0000"
     },
     "done": true
   },
@@ -5696,6 +5787,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/network_node": {
+    "criteria": {
+      "has_capacitor": "2024-12-06 01:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-25 19:45:11 +0000"
@@ -5936,9 +6033,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-06 01:34:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
+    "criteria": {
+      "recipe_condition": "2024-12-06 01:31:12 +0000"
     },
     "done": true
   },
@@ -5951,6 +6060,12 @@
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_item": "2024-11-25 18:46:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/network_api": {
+    "criteria": {
+      "has_capacitor": "2024-12-06 01:28:22 +0000"
     },
     "done": true
   },
@@ -8288,6 +8403,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
+    "criteria": {
+      "recipe_condition": "2024-12-06 01:31:12 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-11-25 17:03:41 +0000"
@@ -8473,6 +8594,12 @@
     },
     "done": true
   },
+  "itemcollectors:recipes/decorations/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2024-12-06 01:31:12 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2024-11-25 17:03:41 +0000"
@@ -8575,6 +8702,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 01:31:33 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:02:22 +0000"
@@ -8602,6 +8735,12 @@
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-05 19:34:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/network_registry": {
+    "criteria": {
+      "has_capacitor": "2024-12-06 01:28:22 +0000"
     },
     "done": true
   },
@@ -8910,6 +9049,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2024-12-06 01:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-06 01:22:32 +0000"
@@ -8925,6 +9070,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/bricks_red": {
     "criteria": {
       "has_bricks": "2024-11-25 17:58:16 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2024-12-06 01:31:12 +0000"
     },
     "done": true
   },
@@ -8973,6 +9124,12 @@
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/scroll": {
+    "criteria": {
+      "has_scroll": "2024-12-06 01:31:14 +0000"
     },
     "done": true
   },
@@ -9114,6 +9271,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2024-12-06 01:31:12 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/weak_redstone_torch": {
     "criteria": {
       "criterion1": "2024-12-05 19:34:14 +0000"
@@ -9246,6 +9409,12 @@
       "has_journal": "2024-12-05 19:34:39 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 01:31:33 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {
@@ -9497,6 +9666,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "shrink:recipes/shrink/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2024-12-06 01:31:12 +0000"
     },
     "done": true
   },
@@ -10466,6 +10641,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2024-12-06 01:30:15 +0000",
       "minecraft:wooded_badlands": "2024-11-25 17:14:08 +0000",
       "minecraft:badlands": "2024-11-25 17:04:41 +0000",
       "minecraft:sparse_jungle": "2024-11-25 17:14:06 +0000",
@@ -10473,6 +10649,7 @@
       "minecraft:dripstone_caves": "2024-12-06 01:24:48 +0000",
       "minecraft:swamp": "2024-11-25 17:08:12 +0000",
       "minecraft:forest": "2024-11-25 17:06:14 +0000",
+      "minecraft:desert": "2024-12-06 01:32:27 +0000",
       "minecraft:jungle": "2024-12-05 21:15:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 17:06:38 +0000",
       "minecraft:savanna": "2024-12-05 21:12:14 +0000",
@@ -10519,6 +10696,12 @@
   "ae2:recipes/redstone/misc/vanilla_comparator": {
     "criteria": {
       "has_quartz": "2024-12-05 19:34:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/network_io_port": {
+    "criteria": {
+      "has_capacitor": "2024-12-06 01:28:22 +0000"
     },
     "done": true
   },
@@ -11006,8 +11189,10 @@
     "criteria": {
       "cooked_beef": "2024-12-05 20:00:11 +0000",
       "apple": "2024-12-05 19:30:48 +0000",
+      "potato": "2024-12-06 01:31:52 +0000",
       "poisonous_potato": "2024-12-06 01:23:52 +0000",
-      "bread": "2024-12-06 01:23:59 +0000"
+      "bread": "2024-12-06 01:23:59 +0000",
+      "cookie": "2024-12-06 01:31:19 +0000"
     },
     "done": false
   },
@@ -11395,6 +11580,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-06 01:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 20:27:00 +0000"
@@ -11621,6 +11812,12 @@
   "ftbic:recipes/ftbic/macerating/gems/diamond_to_dust": {
     "criteria": {
       "has_item": "2024-12-05 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 01:32:13 +0000"
     },
     "done": true
   },
@@ -12116,6 +12313,12 @@
   "ars_nouveau:recipes/ars_nouveau/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/diagnostic_subroutine": {
+    "criteria": {
+      "has_capacitor": "2024-12-06 01:28:22 +0000"
     },
     "done": true
   },
