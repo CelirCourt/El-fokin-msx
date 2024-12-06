@@ -113,6 +113,18 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/lapis_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-05 19:34:39 +0000"
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/search_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-11-25 17:04:45 +0000"
@@ -170,6 +188,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2024-12-06 02:26:52 +0000"
     },
     "done": true
   },
@@ -305,6 +329,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/security_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-05 19:35:55 +0000"
@@ -320,6 +350,12 @@
   "cfm:recipes/cfm/brown_cooler": {
     "criteria": {
       "has_chest": "2024-12-05 19:34:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -473,6 +509,12 @@
     },
     "done": true
   },
+  "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/gold_lantern": {
     "criteria": {
       "recipe_condition": "2024-11-25 17:09:54 +0000"
@@ -575,9 +617,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-11-25 17:57:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -635,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/andesite_lantern_light_blue": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:14:05 +0000"
@@ -659,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 02:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-06 01:15:35 +0000"
@@ -668,6 +734,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-05 19:32:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -710,6 +782,12 @@
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/smithing/netherite_opal_knife": {
+    "criteria": {
+      "has_ingots/netherite": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -764,6 +842,12 @@
   "additionallanterns:recipes/additionallanterns/normal_lantern_cyan": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -899,6 +983,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-25 17:58:21 +0000"
@@ -992,6 +1082,12 @@
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2024-12-06 01:17:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/block_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -1208,6 +1304,18 @@
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-05 19:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -1595,6 +1703,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_crate": {
     "criteria": {
       "has_log": "2024-11-25 17:17:45 +0000"
@@ -1853,6 +1967,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/ebony_slab": {
     "criteria": {
       "has_planks": "2024-11-25 19:40:03 +0000"
@@ -2066,6 +2186,12 @@
   "botania:recipes/botania/mushroom_14": {
     "criteria": {
       "has_item": "2024-12-06 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -2345,6 +2471,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/amethyst_lantern_green": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:13:55 +0000"
@@ -2414,6 +2546,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_brazier": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -2642,6 +2780,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -2976,6 +3120,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/chipped/mason_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-05 19:34:35 +0000"
@@ -3102,6 +3252,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/dispenser_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:57:43 +0000"
@@ -3171,6 +3327,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-11-25 17:02:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -3299,6 +3461,12 @@
   "littlelogistics:recipes/redstone/rapid_hopper": {
     "criteria": {
       "has_item": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -3500,6 +3668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "quarryplus:recipes/solid_fuel_quarry": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-05 19:26:15 +0000"
@@ -3650,6 +3824,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/ender_visor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/amethyst_lantern_pink": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:13:55 +0000"
@@ -3783,6 +3963,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 19:34:16 +0000"
@@ -3822,6 +4008,12 @@
   "handcrafted:recipes/misc/white_bowl": {
     "criteria": {
       "has_terracotta": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/inventory_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -4135,6 +4327,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/range_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -4186,6 +4384,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -4246,6 +4450,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-06 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/flippers_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -4471,6 +4681,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/minigun_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mining_ring": {
     "criteria": {
       "has_item": "2024-12-06 02:01:10 +0000"
@@ -4516,6 +4732,12 @@
   "additionallanterns:recipes/additionallanterns/stone_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2024-11-25 17:09:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -4573,6 +4795,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-11-25 17:02:23 +0000"
@@ -4588,6 +4816,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/modularrouters/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -4709,6 +4943,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-05 19:35:55 +0000"
+    },
+    "done": true
+  },
+  "rsinfinitybooster:recipes/refinedstorage/infinity_card": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -5084,6 +5324,12 @@
     },
     "done": true
   },
+  "aeinfinitybooster:recipes/aeinfinitybooster/infinity_card": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2024-11-25 19:00:07 +0000"
@@ -5105,6 +5351,18 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-06 01:18:42 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/gilded_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -5153,6 +5411,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-05 19:54:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -5489,6 +5753,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_red_r": {
     "criteria": {
       "has_stone_bricks": "2024-11-25 17:57:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -6105,6 +6375,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_elemental/advanced_prism": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -6267,6 +6543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/decorations/item_trash_can": {
     "criteria": {
       "recipe_condition": "2024-12-05 19:34:14 +0000"
@@ -6354,6 +6636,12 @@
   "handcrafted:recipes/misc/white_plate": {
     "criteria": {
       "has_terracotta": "2024-12-05 19:34:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/standby_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -6519,6 +6807,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:39 +0000"
@@ -6618,6 +6912,12 @@
   "cfm:recipes/cfm/magenta_picket_gate": {
     "criteria": {
       "has_gate": "2024-11-25 18:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7143,6 +7443,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/netherite_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_ether_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:40 +0000"
@@ -7158,6 +7464,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-11-25 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7182,6 +7494,12 @@
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7213,6 +7531,12 @@
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2024-12-06 01:37:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7373,6 +7697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-05 19:34:15 +0000"
@@ -7388,6 +7718,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-05 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7472,6 +7808,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-06 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7625,6 +7967,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:02:22 +0000"
@@ -7724,6 +8072,12 @@
   "additionallanterns:recipes/additionallanterns/diamond_chain": {
     "criteria": {
       "recipe_condition": "2024-12-05 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -7853,6 +8207,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_red": {
     "criteria": {
       "chest": "2024-12-05 19:34:14 +0000"
@@ -7899,6 +8259,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 20:27:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2024-12-06 02:37:05 +0000"
     },
     "done": true
   },
@@ -8057,6 +8423,12 @@
   "additionallanterns:recipes/additionallanterns/normal_lantern_white": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 02:31:22 +0000"
     },
     "done": true
   },
@@ -8219,6 +8591,18 @@
   "additionallanterns:recipes/additionallanterns/stone_chain": {
     "criteria": {
       "recipe_condition": "2024-12-05 19:34:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/armor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -8432,6 +8816,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-11-25 18:36:17 +0000"
@@ -8471,6 +8861,12 @@
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2024-11-25 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 02:29:50 +0000"
     },
     "done": true
   },
@@ -8778,6 +9174,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/entity_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -9314,6 +9716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/third_eye": {
     "criteria": {
       "has_item": "2024-12-05 20:08:54 +0000"
@@ -9395,6 +9803,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
     "criteria": {
       "has_the_recipe": "2024-11-25 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/magnet_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -9501,6 +9915,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/copper_wire": {
     "criteria": {
       "has_item": "2024-12-05 19:34:35 +0000"
@@ -9559,6 +9979,18 @@
     },
     "done": false
   },
+  "alltheores:recipes/alltheores/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 02:29:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-11-25 17:03:41 +0000"
@@ -9598,6 +10030,12 @@
   "silentgear:recipes/misc/diamond_from_shards": {
     "criteria": {
       "has_item": "2024-12-05 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -10571,6 +11009,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
       "has_iron": "2024-12-05 19:34:15 +0000"
@@ -10715,6 +11159,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_hoe": {
     "criteria": {
       "has_item": "2024-12-06 02:01:10 +0000"
@@ -10784,6 +11234,12 @@
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2024-11-25 17:17:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 02:31:22 +0000"
     },
     "done": true
   },
@@ -11061,6 +11517,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-05 19:34:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -11377,6 +11839,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/netherite_chain": {
+    "criteria": {
+      "recipe_condition": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_glazed_thick_pot": {
     "criteria": {
       "has_terracotta": "2024-12-05 19:34:39 +0000"
@@ -11497,6 +11965,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-11-25 17:57:56 +0000"
@@ -11518,6 +11992,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-05 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -11989,6 +12469,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/stomp_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_crate": {
     "criteria": {
       "has_log": "2024-11-25 18:36:18 +0000"
@@ -11998,6 +12484,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-05 20:00:11 +0000",
+      "baked_potato": "2024-12-06 02:30:22 +0000",
       "apple": "2024-12-05 19:30:48 +0000",
       "potato": "2024-12-06 01:31:52 +0000",
       "poisonous_potato": "2024-12-06 01:23:52 +0000",
@@ -12039,6 +12526,12 @@
   "utilitix:recipes/utilitix/tiny_coal_to_tiny": {
     "criteria": {
       "criterion0": "2024-12-05 20:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -12210,6 +12703,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2024-12-05 20:30:59 +0000"
@@ -12300,9 +12799,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/altar": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 02:31:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -12553,9 +13070,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/toast_from_bread": {
     "criteria": {
       "has_bread": "2024-12-05 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -12661,6 +13190,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -12700,6 +13235,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -12766,6 +13307,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-05 20:32:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -12925,6 +13472,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade_from_glycerol": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-11-25 17:57:56 +0000"
@@ -13078,6 +13631,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-05 19:34:14 +0000"
@@ -13093,6 +13652,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -13171,6 +13736,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/elytra_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },
@@ -13267,6 +13838,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2024-12-05 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:31:23 +0000"
     },
     "done": true
   },

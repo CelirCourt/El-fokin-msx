@@ -9418,6 +9418,12 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2024-12-06 02:37:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-11-25 17:15:39 +0000"
