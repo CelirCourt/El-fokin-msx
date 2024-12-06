@@ -4784,6 +4784,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-06 03:16:28 +0000",
       "minecraft:skeleton": "2024-11-25 20:20:34 +0000",
+      "minecraft:ravager": "2024-12-06 03:23:49 +0000",
       "minecraft:vindicator": "2024-12-06 03:19:57 +0000",
       "minecraft:spider": "2024-11-25 19:38:12 +0000",
       "minecraft:creeper": "2024-11-25 19:38:09 +0000",
@@ -4858,6 +4859,12 @@
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2024-11-25 20:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-06 03:21:12 +0000"
     },
     "done": true
   },
@@ -6486,6 +6493,12 @@
   "additionallanterns:recipes/additionallanterns/basalt_lantern_green": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:16:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 03:21:15 +0000"
     },
     "done": true
   },
@@ -10433,6 +10446,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2024-12-06 03:23:05 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-11-25 17:16:38 +0000"
@@ -10676,6 +10695,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-11-25 18:14:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 03:24:50 +0000"
     },
     "done": true
   },
@@ -15560,6 +15585,12 @@
   "ars_elemental:recipes/ars_elemental/yellow_archwood": {
     "criteria": {
       "has_journal": "2024-11-25 20:04:14 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2024-12-06 03:23:05 +0000"
     },
     "done": true
   },

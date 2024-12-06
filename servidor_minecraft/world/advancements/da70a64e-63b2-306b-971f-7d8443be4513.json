@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_mycelium": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2024-11-25 17:03:41 +0000"
@@ -326,6 +338,12 @@
   "reliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2024-12-06 02:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -581,6 +599,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/light_gray_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/bricks_blue": {
     "criteria": {
       "has_bricks": "2024-11-25 17:58:16 +0000"
@@ -824,6 +848,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-05 19:35:55 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/black_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -1118,6 +1148,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -1733,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/filter_rail": {
     "criteria": {
       "criterion1": "2024-12-06 02:45:04 +0000"
@@ -2003,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/normal_lantern_blue": {
     "criteria": {
       "recipe_condition": "2024-11-25 19:14:31 +0000"
@@ -2192,6 +2240,12 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-05 19:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -2771,6 +2825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_leggings": {
     "criteria": {
       "has_item": "2024-12-06 02:01:10 +0000"
@@ -2930,6 +2990,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-05 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/pink_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -3327,6 +3393,12 @@
   "additionallanterns:recipes/additionallanterns/cobbled_deepslate_chain": {
     "criteria": {
       "recipe_condition": "2024-12-05 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/filter_material": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -3830,6 +3902,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/misc/separating/flint": {
+    "criteria": {
+      "has_item": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_blue": {
     "criteria": {
       "has_stone_bricks": "2024-11-25 17:57:43 +0000"
@@ -4308,6 +4386,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-25 20:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -4994,6 +5078,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/building_blocks/macerating/sand": {
+    "criteria": {
+      "has_item": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-05 19:34:16 +0000"
@@ -5643,6 +5733,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/red_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_embur_planks": {
     "criteria": {
       "has_ingredient": "2024-11-25 17:03:40 +0000"
@@ -6207,6 +6303,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_awakening": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:40 +0000"
@@ -6625,6 +6727,12 @@
   "alltheores:recipes/alltheores/tin_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/purple_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -7402,6 +7510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 19:34:16 +0000"
@@ -7609,6 +7723,12 @@
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2024-12-05 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/brown_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -7866,6 +7986,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cyan_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_zinc_from_block": {
     "criteria": {
       "has_item": "2024-12-05 20:49:39 +0000"
@@ -8001,6 +8127,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -8265,6 +8397,12 @@
   "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-12-05 19:34:35 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/gray_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -8847,6 +8985,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 03:25:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
     "criteria": {
       "has_resource": "2024-11-25 19:39:47 +0000"
@@ -8895,6 +9039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "appmek:recipes/appmek/chemical_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-06 01:19:36 +0000"
@@ -8907,6 +9057,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/white_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/armor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-06 02:31:23 +0000"
@@ -8916,6 +9072,18 @@
   "alltheores:recipes/alltheores/nickel_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/lime_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -9252,6 +9420,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-05 19:34:15 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/yellow_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -10077,6 +10251,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/blue_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-05 19:37:49 +0000"
@@ -10790,6 +10970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-05 19:34:39 +0000"
@@ -11454,6 +11640,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2024-12-05 19:37:49 +0000"
@@ -11947,6 +12139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2024-12-05 19:34:14 +0000"
@@ -12028,6 +12226,12 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2024-11-25 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -12185,6 +12389,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2024-11-25 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/magenta_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -12740,6 +12950,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/orange_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 02:44:11 +0000"
@@ -13163,6 +13379,12 @@
   "alchemistry:recipes/dissolver/mossy_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-06 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
@@ -13635,6 +13857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 03:23:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-05 19:34:41 +0000"
@@ -14004,6 +14232,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-11-25 17:17:45 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/green_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 03:23:53 +0000"
     },
     "done": true
   },
