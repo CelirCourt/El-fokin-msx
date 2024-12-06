@@ -1788,3 +1788,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Dec2024 02:14:38.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY was slain by Zombie
 [06Dec2024 02:14:38.783] [Server thread/INFO] [tombstone/]: The player PAPITONY has successfully been saved
 [06Dec2024 02:14:40.588] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[06Dec2024 02:21:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPITONY: Teleported PAPITONY to Matikd]
+[06Dec2024 02:21:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Matikd> calmaoo
+[06Dec2024 02:21:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Matikd> cagó la corriente
+[06Dec2024 02:22:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Matikd> nse q chucha
+[06Dec2024 02:23:35.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15006, l='ServerLevel[world]', x=-780.26, y=96.00, z=58.47] died, message: 'Villager was slain by Zombie'
+[06Dec2024 02:23:44.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15002, l='ServerLevel[world]', x=-780.70, y=96.30, z=53.33] died, message: 'Villager was slain by Zombie Villager'
+[06Dec2024 02:23:49.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15003, l='ServerLevel[world]', x=-775.41, y=96.00, z=57.94] died, message: 'Villager was slain by Zombie'
+[06Dec2024 02:24:02.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15005, l='ServerLevel[world]', x=-775.44, y=96.00, z=58.70] died, message: 'Villager was slain by Zombie'
+[06Dec2024 02:24:02.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15004, l='ServerLevel[world]', x=-775.48, y=96.00, z=57.49] died, message: 'Villager was slain by Zombie Villager'
+[06Dec2024 02:25:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY has made the advancement [Mutual Aid]
